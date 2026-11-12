@@ -22,13 +22,13 @@ Nyxion 生态由多个高度解耦、独立演进的核心子项目构成：
 
 | 模块 | 定位 | 核心能力 |
 | :--- | :--- | :--- |
-|  **[幻想生命](./NyXion-Life)** | **？？？** | Gestalt高级版专享，暂时保密~ *(暂未上线)* |
-|  **[Gestalt](./NyXion-Gestalt)** | **主脑** | 承载底层状态机、多级分片记忆库、整合多CLI框架的核心。它是整个生态的中枢神经系统。*(暂未上线)* |
-|  **[Heredity](./NyXion-Heredity)** | **适配器** | 为Gestalt链接外围 App 而生，原生兼容 OneBot 标准协议。*(开发中)* |
-|  **[Relay](./NyXion-Relay)** | **流转** | 传递个人数据的通讯核心。*(暂未上线)* |
-|  **[Vita](./NyXion-Vita)** | **健康** | 采集健康数据，传递给Gestalt的中枢。*(暂未上线)* |
-|  **[Synapse](./NyXion-Synapse)** | **端口映射** | 负责跨设备的底层网络穿透与点对点端口映射。*(暂未上线)* |
-|  **[Aegis](./NyXion-Aegis)** | **安全** | 贯穿部分生态的安全免疫系统。*(暂未上线)* |
+|  **[幻想生命](https://github.com/NyXion-EcoWarehouse/NyXion-Life)** | **？？？** | Gestalt高级版专享，暂时保密~ *(暂未上线)* |
+|  **[Gestalt](https://github.com/NyXion-EcoWarehouse/NyXion-Gestalt)** | **主脑** | 承载底层状态机、多级分片记忆库、整合多CLI框架的核心。它是整个生态的中枢神经系统。*(暂未上线)* |
+|  **[Heredity](https://github.com/NyXion-EcoWarehouse/NyXion-Heredity)** | **适配器** | 为Gestalt链接外围 App 而生，原生兼容 OneBot 标准协议。*(开发中)* |
+|  **[Relay](https://github.com/NyXion-EcoWarehouse/NyXion-Relay)** | **流转** | 传递个人数据的通讯核心。*(暂未上线)* |
+|  **[Vita](https://github.com/NyXion-EcoWarehouse/NyXion-Vita)** | **健康** | 采集健康数据，传递给Gestalt的中枢。*(暂未上线)* |
+|  **[Synapse](https://github.com/NyXion-EcoWarehouse/NyXion-Synapse)** | **端口映射** | 负责跨设备的底层网络穿透与点对点端口映射。*(暂未上线)* |
+|  **[Aegis](https://github.com/NyXion-EcoWarehouse/NyXion-Aegis)** | **安全** | 贯穿部分生态的安全免疫系统。*(暂未上线)* |
 
 ## 🚀 快速上手
 
