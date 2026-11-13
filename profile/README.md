@@ -53,9 +53,10 @@ Nyxion 生态采用**核心闭源与外围开源相结合**的生态策略：
 ## 💖 为 Nyxion 的星火添一把柴
 
 如果你愿意的话，可以点击下方展开赞助码，请开发者喝杯咖啡。开发不易，Vibe烧钱。
+亦或者...来帮我测试？
 
 <details>
-<summary>👉 点击这里展开赞助码</summary>
+<summary>👉 点击这里展开</summary>
 <br>
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
@@ -69,6 +70,10 @@ Nyxion 生态采用**核心闭源与外围开源相结合**的生态策略：
         <img src="https://github.com/NyXion-EcoWarehouse/.github/raw/main/assets/%E5%BE%AE%E4%BF%A1%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg" width="460" alt="微信">
         <br><br>
         <b>微信 (WeChat)</b>
+              </td>
+      <td align="center" style="padding: 15px; border: none;">
+        <img src="https://github.com/NyXion-EcoWarehouse/.github/raw/main/assets/QQ%E7%BE%A4.jpg" width="360" alt="QQ群">
+        <br><br>
       </td>
     </tr>
   </table>
